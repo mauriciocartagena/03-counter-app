@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <Primer App> Debe de mostar el subtitulo enviado por props 1`] = `
+<Fragment>
+  <h1>
+     
+    Hola soy Goku
+    !!!
+  </h1>
+  <p>
+    Soy un subtitulo
+  </p>
+</Fragment>
+`;
+
+exports[`Pruebas en <Primer App> debe de mostar <PrimeraApp /> correctamente 1`] = `
+<Fragment>
+  <h1>
+     
+    Hola soy Goku
+    !!!
+  </h1>
+  <p>
+    Soy un subtitulo
+  </p>
+</Fragment>
+`;

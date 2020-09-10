@@ -9,9 +9,9 @@ const PrimeraApp = ( { saludo,subtitle } ) => {
 
     return(
         <Fragment>
-            <h1> { saludo } </h1>
+            <h1> { saludo }!!!</h1>
             {/* <pre>{ JSON.stringify( saludo, null, 3 ) }</pre> */}
-            <p> { subtitle } </p>
+            <p>{ subtitle }</p>
         </Fragment>
     );
 }
